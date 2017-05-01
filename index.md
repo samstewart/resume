@@ -1,132 +1,121 @@
-Christophe-Marie Duquesne
+Samuel Stewart
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Specialties: Python, PDEs, C++, Matlab\
+>  PhD Candidate in Pure Math
 
 ----
 
-Corporate Experience
+Research
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+Since 2016
+:   *High-density crowd dynamics*
+    
+    Developing simulation in Julia and Python
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+2015 - 2016
+:   *De Gregorio Model for Euler Equations with Swirl*
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+    Pseudo-spectral methods to obtain numerical evidence of attractor solutions. We proved local linear stability
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+2014 (3 months)
+:   *Singularities of Quadratic Nonlinear Wave Equations*
+    
+    Wrote a PDE solver (Python + NumPy) with conformal compactification.
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2013 (3 months)
+:   *Orbigraphs - Graph Theoretic Analogues of Orbifolds*
+    
+    Wrote library in Mathematica for testing conjectures computationally. Used Markov Chain theory to prove surprising classification result.
+2013 (5 months)
+:   *Root-Parallelized Computer Go*
+    Parallelized Computer Go player on a cluster of five machines.
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+2012 (3 months)
+:   *Win/Loss State Optimization*
+    
+    Implemented statistical compression algorithm during freshman summer for my advisor's Computer Go player.
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
+Publications and Talks
 ----------------------------------
 
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+Why you should study pure math in grad school (Sp2017)
+:   Outreach talk at Normandale community college.
 
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
+De Gregorio's Equation: a 1D model of Euler equations with Swirl
+:   Paper in preparation with Sverak, Vladimir; Stewart, S; Jia, H.
 
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
+The Beauty of Fluid Dynamics (Sp2017)
+:   Hour-long public outreach talk at Minneapolis chapter of Café Scientifique.
 
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
+Real-time fluid simulation in Google Chrome (Fa2016)
+:   Hour-long PDE seminar lecture where I discuss techniques for simulating fluids in the web browser.
 
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
+Theory and Implementation of Pseudo-spectral Methods in Matlab (Fa2016)
+:   Two hour-long [lectures](https://samstewart.github.io/blog/2016/10/spectral-method-in-matlab-part-2) at PDE seminar. 
+        
+Singularities of Nonlinear Wave Equations with Quadratic Nonlinearities (Sp2015)
+:   Senior thesis
 
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+Festival of Scholars (Sp2015)
+:   Gave a general audience talk on my senior thesis at the campus-wide Festival of Scholars.
+
+Joint Mathematical Meetings 2015: 
+:   Talk on my senior thesis.
+
+Orbigraphs - Graph Theoretic Analogues of Orbifolds (Fa2013)
+:   Presented summer work at the Young Mathematicians Conference 2013
+
+Two Online Learning Playout Policies in Monte Carlo Go: An Application of Win/Loss State
+:   Basaldua, J; Stewart, S; Moreno-Vega, JM; Drake, PD. *IEEE Transactions on Computational Intelligence and AI in Games* 1 (2014): 46-54. Print.
+    
+Course Notes on R (Fa2013)
+:   Exercises and tutorial on the R programming language.
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+2015-Current
+:   *PhD in Mathematics at University of Minnesota* (Minneapolis, MN).
+    
+    Speciality: crowd dynamics
+    Advisor: [Vladimir Sverak](http://www-users.math.umn.edu/~sverak/).
+    Expected graduation Spring 2019.
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+2011-2015
+:   *BA in Mathematics at Lewis & Clark College* (Portland, OR).
+    
+    Honors Thesis Title: Wave Equations with Quadratic Nonlinearities
+    Advisor: [Paul T. Allen](https://paultallen.wordpress.com/)
+    3.78 general GPA and 3.84 GPA in Mathematics.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+2013-2014
+:   *Budapest Semesters in Mathematics* (Budapest, Hungary).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
-
-Activities and interests
+Awards
 ------------------------
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+John Ordway Fellowship
+:   Supplemental departmental fellowship
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Phi Beta Kappa
+:   Oldest national academic honor society with 1% of graduating college students inducted.
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+Pi Mu Epsilon
+:   National math honor society
+
+Dean's List
+:   Award to students with semester GPA above 3.5
+
+Best Machine Learning Poster at NW-CCSC 2012
+:   Poster on our work in Computer Go
+
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> <sams@umn.edu> • +1 503-877-2851 • [samstewart.github.io](http://samstewart.github.io)\
+>  Vincent Hall, University of Minnesota - Minneapolis, MN 55414, USA
