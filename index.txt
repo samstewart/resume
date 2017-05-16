@@ -1,112 +1,145 @@
-Christophe-Marie Duquesne
-=========================
 
-* * * * *
 
-  Specialties: C++, Python, Linux, Operations Research  
-   Doctor in Computer Science and Mathematics
+SAMUEL STEWART
 
-* * * * *
 
-Corporate Experience
---------------------
+------------------------------------------------------------------------
 
-Since 2013
-    Data Scientist for Airconomy (Frankfurt am Main, Germany).
+  Specialties: PDEs, Python, C++, Mathematica, Matlab
+  PhD Candidate in Pure Math
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+------------------------------------------------------------------------
 
-2009-2012
-    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+Research
 
-2008 (3 months)
-    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
+Since 2016
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    HIGH-DENSITY CROWD DYNAMICS
 
-2007 (3 months)
-    Internship at GE Healthcare (Paris, France).
+    Developing simulation in Julia and Python with my advisor.
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+2015 - 2016
 
-Selected Open Source Contributions
-----------------------------------
+    1D DE GREGORIO MODEL FOR EULER EQUATIONS WITH SWIRL
 
-Python
-    Contributor to pulp-or, a linear programming Python library. Author
-    of small tools, like michel, a command line program providing
-    bidirectionnal synchronization of google tasks with text files.
+    Pseudo-spectral methods to obtain numerical evidence of attractor
+    solutions. My advisor, Prof Jia at IAS, and I proved local linear
+    stability.
 
-C++
-    Author of yaposib, a Python binding to COIN-OSI that is now
-    supported by pulp-or.
+2014 (3 months)
 
-C
-    Author of lazylpsolverlibs, a set of proxy libraries targeting
-    cplex, gurobi and xpress. I also started writing sharebox, a
-    distributed FUSE file system based on git.
+    SINGULARITIES OF QUADRATIC NONLINEAR WAVE EQUATIONS
 
-Java
-    Author of talkmyphone, an android application allowing phone control
-    via gtalk. It had 10.000+ downloads, and was forked 50 times. It was
-    then successfully handed over to other developers.
+    Wrote a PDE solver (Python + NumPy) with conformal compactification.
 
-Misc
-    Lua, Ada, Bash, Makefile, m4, autotools, cmake… See my github
-    résumé. My kudorank on ohloh is 9, among the top 2% of opensource
-    developers.
+2013 (3 months)
 
-Linux
-    My daily operating system: I blog about it sometimes.
+    ORBIGRAPHS - GRAPH THEORETIC ANALOGUES OF ORBIFOLDS
+
+    Wrote library in Mathematica for testing conjectures
+    computationally. Used Markov Chain theory to prove surprising
+    classification result. 2013 (5 months)
+
+    ROOT-PARALLELIZED COMPUTER GO
+
+    Parallelized Computer Go player on a cluster of five machines.
+
+2012 (3 months)
+
+    WIN/LOSS STATE OPTIMIZATION
+
+    Implemented statistical compression algorithm during freshman summer
+    for my advisor’s Computer Go player.
+
+
+Publications and Talks
+
+2017
+    _The Beauty of Fluid Dynamics_ (Public outreach talk at Minneapolis
+    Café Scientifique) _Why you should study pure math in grad school_.
+    Outreach talk at Normandale community college.
+
+2016
+
+    _Pseudo-spectral methods in Matlab_. PDE seminar.
+
+    _Realtime fluid simulation with WebGL in Google Chrome_. Talk at PDE
+    seminar.
+
+    _De Gregorio’s Equation: a 1D model of Euler equations with Swirl_.
+    Paper in preparation with Sverak, Vladimir; Stewart, S; Jia, H.
+
+2015
+
+    _Singularities of Nonlinear Wave Equations with Quadratic
+    Nonlinearities_. Senior thesis with Paul T. Allen.
+
+    _Wave Equations with Quadratic Nonlinearities_. JMM.
+
+    _Does water blow-up?_. Lewis & Clark Fesitval of Scholars.
+
+2013
+
+    _Introduction to programming in R_. Supported by small grant from my
+    advisor.
+
+    _Orbigraphs - Graph Theoretic Analogue of Orbifolds_. (Young
+    Mathematicians Conference)
+
+2012
+    _Two Online Learning Playout Policies in Monte Carlo Go: An
+    Application of Win/Loss State._ Basaldua, J; Stewart, S;
+    Moreno-Vega, JM; Drake, PD. _IEEE Transactions on Computational
+    Intelligence and AI in Games_ 1 (2014): 46-54. Print.
+
 
 Education
----------
 
-2009-2012
-    PhD in Mathematics and Computer Science at G-SCOP Laboratory
-    (Grenoble, France).
+2015-Current
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by Semi Gabteni. Advisors: Denis Naddef, Olivier
-    Briant. Defended in January 2013.
+    PHD IN MATHEMATICS AT UNIVERSITY OF MINNESOTA (Minneapolis, MN).
 
-2005-2009
-    MS in Computer Science in ENSIMAG (Grenoble, France).
+    Speciality: crowd dynamics.
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    Advisor: Vladimir Sverak.
 
-2002-2005
-    Preparatory classes in Lycée Thiers (Marseille, France).
+    Expected graduation Spring 2019.
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+2011-2015
 
-Activities and interests
-------------------------
+    BA IN MATHEMATICS AT LEWIS & CLARK COLLEGE (Portland, OR).
 
-Hobbies
-    I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+    Honors Thesis Title: Wave Equations with Quadratic Nonlinearities
 
-Sports
-    Running, Cycling, Hiking. I also played rugby union for 7 years.
+    Advisor: Paul T. Allen
 
-Activities
-    I was the president of the grand cercle, one of the largest French
-    campus student associations (5.000 members) during university.
+    3.78 general GPA and 3.84 GPA in Mathematics.
 
-* * * * *
+2013-2014
+    BUDAPEST SEMESTERS IN MATHEMATICS (Budapest, Hungary).
 
-  chmd@chmd.fr • +336 84 14 26 82 • 28 years old  
-   275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+
+Awards
+
+2016
+    NSF GRFP Honorable Mention
+
+2015
+    John Ordway Departmental Fellowship (small supplemental fellowship)
+
+2014
+
+    Dean’s List
+
+    Pi Mu Epsilon (national math honor society)
+
+    Phi Beta Kappa
+
+2012
+    Best Machine Learning Poster at NW-CCSC
+
+------------------------------------------------------------------------
+
+  sams@umn.edu • +1 503-877-2851 • samstewart.github.io
+  Vincent Hall, University of Minnesota - Minneapolis, MN 55414, USA

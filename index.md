@@ -3,7 +3,7 @@ Samuel Stewart
 
 ----
 
->  Specialties: Python, PDEs, C++, Matlab\
+>  Specialties: PDEs, Python, C++, Mathematica, Matlab\
 >  PhD Candidate in Pure Math
 
 ----
@@ -12,107 +12,108 @@ Research
 --------------------
 
 Since 2016
-:   *High-density crowd dynamics*
+:   **High-density crowd dynamics**
     
-    Developing simulation in Julia and Python
+    Developing simulation in Julia and Python with my advisor.
 
 2015 - 2016
-:   *De Gregorio Model for Euler Equations with Swirl*
+:   **1D De Gregorio Model for Euler Equations with Swirl**
 
-    Pseudo-spectral methods to obtain numerical evidence of attractor solutions. We proved local linear stability
+    Pseudo-spectral methods to obtain numerical evidence of attractor solutions. My advisor, Prof Jia at IAS, and I proved local linear stability.
 
 2014 (3 months)
-:   *Singularities of Quadratic Nonlinear Wave Equations*
+:   **Singularities of Quadratic Nonlinear Wave Equations**
     
     Wrote a PDE solver (Python + NumPy) with conformal compactification.
 
 2013 (3 months)
-:   *Orbigraphs - Graph Theoretic Analogues of Orbifolds*
+:   **Orbigraphs - Graph Theoretic Analogues of Orbifolds**
     
     Wrote library in Mathematica for testing conjectures computationally. Used Markov Chain theory to prove surprising classification result.
 2013 (5 months)
-:   *Root-Parallelized Computer Go*
+
+:   **Root-Parallelized Computer Go**
+
     Parallelized Computer Go player on a cluster of five machines.
 
 2012 (3 months)
-:   *Win/Loss State Optimization*
+:   **Win/Loss State Optimization**
     
     Implemented statistical compression algorithm during freshman summer for my advisor's Computer Go player.
 
 Publications and Talks
 ----------------------------------
 
-Why you should study pure math in grad school (Sp2017)
-:   Outreach talk at Normandale community college.
-
-De Gregorio's Equation: a 1D model of Euler equations with Swirl
-:   Paper in preparation with Sverak, Vladimir; Stewart, S; Jia, H.
-
-The Beauty of Fluid Dynamics (Sp2017)
-:   Hour-long public outreach talk at Minneapolis chapter of Café Scientifique.
-
-Real-time fluid simulation in Google Chrome (Fa2016)
-:   Hour-long PDE seminar lecture where I discuss techniques for simulating fluids in the web browser.
-
-Theory and Implementation of Pseudo-spectral Methods in Matlab (Fa2016)
-:   Two hour-long [lectures](https://samstewart.github.io/blog/2016/10/spectral-method-in-matlab-part-2) at PDE seminar. 
+2017
+:   *The Beauty of Fluid Dynamics* (Public outreach talk at Minneapolis Café Scientifique)
+    *Why you should study pure math in grad school*. Outreach talk at Normandale community college.
         
-Singularities of Nonlinear Wave Equations with Quadratic Nonlinearities (Sp2015)
-:   Senior thesis
+2016
+:   *Pseudo-spectral methods in Matlab*. PDE seminar.
 
-Festival of Scholars (Sp2015)
-:   Gave a general audience talk on my senior thesis at the campus-wide Festival of Scholars.
+    *Realtime fluid simulation with WebGL in Google Chrome*. Talk at PDE seminar.
 
-Joint Mathematical Meetings 2015: 
-:   Talk on my senior thesis.
+    *De Gregorio's Equation: a 1D model of Euler equations with Swirl*. Paper in preparation with Sverak, Vladimir; Stewart, S; Jia, H.
 
-Orbigraphs - Graph Theoretic Analogues of Orbifolds (Fa2013)
-:   Presented summer work at the Young Mathematicians Conference 2013
-
-Two Online Learning Playout Policies in Monte Carlo Go: An Application of Win/Loss State
-:   Basaldua, J; Stewart, S; Moreno-Vega, JM; Drake, PD. *IEEE Transactions on Computational Intelligence and AI in Games* 1 (2014): 46-54. Print.
+2015
+:   *Singularities of Nonlinear Wave Equations with Quadratic Nonlinearities*. Senior thesis with Paul T. Allen.
     
-Course Notes on R (Fa2013)
-:   Exercises and tutorial on the R programming language.
+    *Wave Equations with Quadratic Nonlinearities*. JMM.
+
+    *Does water blow-up?*. Lewis & Clark Fesitval of Scholars.
+
+2013
+:   *Introduction to programming in R*. Supported by small grant from my advisor.
+
+    *Orbigraphs - Graph Theoretic Analogue of Orbifolds*. (Young Mathematicians Conference)
+    
+2012
+:   *Two Online Learning Playout Policies in Monte Carlo Go: An Application of Win/Loss State.* Basaldua, J; Stewart, S; Moreno-Vega, JM; Drake, PD. *IEEE Transactions on Computational Intelligence and AI in Games* 1 (2014): 46-54. Print.
+
 
 Education
 ---------
 
 2015-Current
-:   *PhD in Mathematics at University of Minnesota* (Minneapolis, MN).
+:   **PhD in Mathematics at University of Minnesota** (Minneapolis, MN).
     
-    Speciality: crowd dynamics
+    Speciality: crowd dynamics.
+
     Advisor: [Vladimir Sverak](http://www-users.math.umn.edu/~sverak/).
+
     Expected graduation Spring 2019.
 
 2011-2015
-:   *BA in Mathematics at Lewis & Clark College* (Portland, OR).
+:   **BA in Mathematics at Lewis & Clark College** (Portland, OR).
     
     Honors Thesis Title: Wave Equations with Quadratic Nonlinearities
+
     Advisor: [Paul T. Allen](https://paultallen.wordpress.com/)
+
     3.78 general GPA and 3.84 GPA in Mathematics.
 
 2013-2014
-:   *Budapest Semesters in Mathematics* (Budapest, Hungary).
+:   **Budapest Semesters in Mathematics** (Budapest, Hungary).
 
 
 Awards
 ------------------------
 
-John Ordway Fellowship
-:   Supplemental departmental fellowship
+2016
+:   NSF GRFP Honorable Mention
 
-Phi Beta Kappa
-:   Oldest national academic honor society with 1% of graduating college students inducted.
+2015
+:   John Ordway Departmental Fellowship (small supplemental fellowship)
 
-Pi Mu Epsilon
-:   National math honor society
+2014
+:   Dean's List
 
-Dean's List
-:   Award to students with semester GPA above 3.5
+    Pi Mu Epsilon (national math honor society)
 
-Best Machine Learning Poster at NW-CCSC 2012
-:   Poster on our work in Computer Go
+    Phi Beta Kappa
+
+2012
+:   Best Machine Learning Poster at NW-CCSC
 
 
 ----
