@@ -5,106 +5,119 @@ SAMUEL STEWART
 
 ------------------------------------------------------------------------
 
-  Specialties: PDEs, Python, C++, Mathematica, Matlab
-  PhD Candidate in Pure Math
+  Tools: Unix, Git, Python, C++, Mathematica, Matlab, R, Julia, Java
+  Math: PDEs, convex optimization, numerical methods
 
 ------------------------------------------------------------------------
 
 
-Research
+Relevant Experience
 
-Since 2016
+2018-Current
 
-    HIGH-DENSITY CROWD DYNAMICS
+    A DISCRETE CONTACT MODEL FOR CROWD SIMULATION
 
-    Developing simulation in Julia and Python with my advisor.
+    Fast numerical algorithm and well-posedness results for a crowd
+    model (Matlab, Julia, Mathematica).
 
-2015 - 2016
+2015 - 2017
 
     1D DE GREGORIO MODEL FOR EULER EQUATIONS WITH SWIRL
 
-    Pseudo-spectral methods to obtain numerical evidence of attractor
-    solutions. My advisor, Prof Jia at IAS, and I proved local linear
-    stability.
+    Pseudo-spectral method to obtain numerical evidence of global
+    attractor solutions. Proved local stability of attractors (Matlab).
 
-2014 (3 months)
+Summer 2017
+
+    TRACTORS FOR AFRICA
+
+    Worked with NGO “Tractors for Africa” in Burkina Faso as translator.
+
+Summer 2014
 
     SINGULARITIES OF QUADRATIC NONLINEAR WAVE EQUATIONS
 
-    Wrote a PDE solver (Python + NumPy) with conformal compactification.
+    PDE solver with conformal compactification to handle boundary
+    (Python / NumPy).
 
-2013 (3 months)
+Summer 2013
 
     ORBIGRAPHS - GRAPH THEORETIC ANALOGUES OF ORBIFOLDS
 
-    Wrote library in Mathematica for testing conjectures
-    computationally. Used Markov Chain theory to prove surprising
-    classification result. 2013 (5 months)
+    Proved geometric classification via Markov Chain theory
+    (Mathematica).
+
+Spring 2013
 
     ROOT-PARALLELIZED COMPUTER GO
 
-    Parallelized Computer Go player on a cluster of five machines.
+    Parallelized Computer Go player on a cluster of five machines
+    (Java).
 
-2012 (3 months)
+Summer 2012
 
     WIN/LOSS STATE OPTIMIZATION
 
-    Implemented statistical compression algorithm during freshman summer
-    for my advisor’s Computer Go player.
+    Compression algorithm during freshman summer for computer Go (Java).
+
+Fall 2013 - Fall 2015
+
+    ANDROID / IPHONE DEVELOPMENT
+
+    Android / iPhone developer for Upsight Analytics (Portland, OR)
+    during college. Wrote their entire Android client in a month, built
+    an automated UI testing framework, and mentored junior developers
+    (Java, Objective-C).
 
 
 Publications and Talks
 
+2019
+
+    “De Gregorio’s Equation: a 1D model of Euler equations with Swirl”.
+    Hoa, J; Stewart, S; Sverak, V. _Archive for Rational Mechanics and
+    Analysis_ 2 (2019): 1269-1304. Print
+
+    “Orbigraphs - Graph Theoretic Analogue of Orbifolds”. Daly, K;
+    Gavin, C; Montes de Oca, G; Ochoa, D; Stanhope, E; Stewart, S. To
+    appear in _Involve, a Journal of Mathematics._
+
+2018
+
+    “Lost in the Crowd: How Mathematicians Model Crowds” (Public
+    outreach talk at Duluth Cafe Scientifique and University of
+    Minnesota-Duluth)
+
+    “Cellular Automata models of dense crowds”, poster at ICERM
+    Conference on Crowd Modeling, Brown University.
+
 2017
-    _The Beauty of Fluid Dynamics_ (Public outreach talk at Minneapolis
-    Café Scientifique) _Why you should study pure math in grad school_.
-    Outreach talk at Normandale community college.
-
-2016
-
-    _Pseudo-spectral methods in Matlab_. PDE seminar.
-
-    _Realtime fluid simulation with WebGL in Google Chrome_. Talk at PDE
-    seminar.
-
-    _De Gregorio’s Equation: a 1D model of Euler equations with Swirl_.
-    Paper in preparation with Sverak, Vladimir; Stewart, S; Jia, H.
-
-2015
-
-    _Singularities of Nonlinear Wave Equations with Quadratic
-    Nonlinearities_. Senior thesis with Paul T. Allen.
-
-    _Wave Equations with Quadratic Nonlinearities_. JMM.
-
-    _Does water blow-up?_. Lewis & Clark Fesitval of Scholars.
-
-2013
-
-    _Introduction to programming in R_. Supported by small grant from my
-    advisor.
-
-    _Orbigraphs - Graph Theoretic Analogue of Orbifolds_. (Young
-    Mathematicians Conference)
+    “The Beauty of Fluid Dynamics” (Public outreach talk at Minneapolis
+    Café Scientifique)
 
 2012
-    _Two Online Learning Playout Policies in Monte Carlo Go: An
-    Application of Win/Loss State._ Basaldua, J; Stewart, S;
+    “Two Online Learning Playout Policies in Monte Carlo Go: An
+    Application of Win/Loss State.” Basaldua, J; Stewart, S;
     Moreno-Vega, JM; Drake, PD. _IEEE Transactions on Computational
     Intelligence and AI in Games_ 1 (2014): 46-54. Print.
 
 
 Education
 
-2015-Current
+2017-2020
 
     PHD IN MATHEMATICS AT UNIVERSITY OF MINNESOTA (Minneapolis, MN).
 
-    Speciality: crowd dynamics.
+    Speciality: fluids, granular media, convex optimization.
 
     Advisor: Vladimir Sverak.
 
-    Expected graduation Spring 2019.
+2015-2017
+
+    MASTERS IN MATHEMATICS (Minneapolis, MN).
+
+    Masters Thesis: “De Gregorio’s Equation: a 1D model of Euler
+    equations with Swirl”
 
 2011-2015
 
@@ -114,32 +127,26 @@ Education
 
     Advisor: Paul T. Allen
 
-    3.78 general GPA and 3.84 GPA in Mathematics.
-
 2013-2014
     BUDAPEST SEMESTERS IN MATHEMATICS (Budapest, Hungary).
 
 
 Awards
 
+2017-2021
+    National Defense Science and Engineering Graduate Fellowship.
+
 2016
-    NSF GRFP Honorable Mention
+    National Science Foundation Graduate Student Fellowship Honorable
+    Mention
 
 2015
-    John Ordway Departmental Fellowship (small supplemental fellowship)
+    John Ordway Departmental Fellowship
 
 2014
-
-    Dean’s List
-
-    Pi Mu Epsilon (national math honor society)
-
-    Phi Beta Kappa
-
-2012
-    Best Machine Learning Poster at NW-CCSC
+    Phi Beta Kappa, Pi Mu Epsilon (honors in mathematics)
 
 ------------------------------------------------------------------------
 
-  sams@umn.edu • +1 503-877-2851 • samstewart.github.io
+  sams@umn.edu • +1 503-877-2851 • https://github.com/samstewart
   Vincent Hall, University of Minnesota - Minneapolis, MN 55414, USA
