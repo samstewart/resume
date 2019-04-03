@@ -1,118 +1,140 @@
-Samuel Stewart
+Sam Stewart
 =========================
 
-----
+------------------------------------------
+<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN  
+------------------------------------------
 
->  Tools: Unix, Git, Python, C++, Mathematica, Matlab, R, Julia, Java\
->  Math: PDEs, convex optimization, numerical methods 
-
-----
-
-Relevant Experience
+Research Experience
 --------------------
 
-2018-Current   
-:    **A discrete contact model for crowd simulation**
+2015-2020
+:     **Graduate Research Assistant (Minneapolis, MN)** 
 
-    Fast numerical algorithm and well-posedness results for a crowd model (Matlab, Julia, Mathematica).
-
-2015 - 2017
-:   **1D De Gregorio Model for Euler Equations with Swirl**
-
-    Pseudo-spectral method to obtain numerical evidence of global attractor solutions. Proved local stability of attractors (Matlab). 
-
-Summer 2017
-:    **Tractors for Africa**
-
-    Worked with NGO "Tractors for Africa" in Burkina Faso as translator. 
-
-
-Summer 2014
-:   **Singularities of Quadratic Nonlinear Wave Equations**
-    
-    PDE solver with conformal compactification to handle boundary (Python / NumPy).
-
-Summer 2013 
-:   **Orbigraphs - Graph Theoretic Analogues of Orbifolds**
-    
-    Proved geometric classification via Markov Chain theory (Mathematica).
-
-Spring 2013
-:   **Root-Parallelized Computer Go**
-
-    Parallelized Computer Go player on a cluster of five machines (Java).
-
-Summer 2012
-:   **Win/Loss State Optimization**
-    
-    Compression algorithm during freshman summer for computer Go (Java). 
-
-Fall 2013 - Fall 2015
-:   **Android / iPhone Development**
-
-    Android / iPhone developer for Upsight Analytics (Portland, OR) during college. Wrote their entire Android client in a month, built an automated UI testing framework, and mentored junior developers (Java, Objective-C).
-
-Publications and Talks
-----------------------------------
-2019
-:   "De Gregorio's Equation: a 1D model of Euler equations with Swirl". Hoa, J; Stewart, S; Sverak, V. *Archive for Rational Mechanics and Analysis* 2 (2019): 1269-1304. Print 
-
-    "Orbigraphs - Graph Theoretic Analogue of Orbifolds". Daly, K; Gavin, C; Montes de Oca, G; Ochoa, D; Stanhope, E; Stewart, S. To appear in *Involve, a Journal of Mathematics.* 
-
-2018
-:   "Lost in the Crowd: How Mathematicians Model Crowds" (Public outreach talk at Duluth Cafe Scientifique and University of Minnesota-Duluth)
-
-    "Cellular Automata models of dense crowds", poster at ICERM Conference on Crowd Modeling, Brown University.
+    * **Masters Project**: Implemented spectral method in Matlab to obtain numerical evidence of attractor solutions for a fluid model. Proved existence of attractor solutions using techniques from spectral theory and published the results in top journal.
+    * **PhD Project**: Designing fast algorithm for simulating a crowd model inspired by fluid dynamics. Proving that algorithm is wellposed.
 
 2017
-:   "The Beauty of Fluid Dynamics" (Public outreach talk at Minneapolis Café Scientifique)
-        
-2012
-:   "Two Online Learning Playout Policies in Monte Carlo Go: An Application of Win/Loss State." Basaldua, J; Stewart, S; Moreno-Vega, JM; Drake, PD. *IEEE Transactions on Computational Intelligence and AI in Games* 1 (2014): 46-54. Print.
+:    **Tractors for Africa (Burkina Faso)**
 
+    * Acted as language and cultural liaison between US team and local team in a rural town in Burkina Faso.
+    * Wrote weekly reports for US team 
+    * Managed finances of local team and coordinated funds with US team
+
+2012-2015 
+:   **Summer Undergraduate Research Experiences (Portland, OR)**
+    
+    * **First Summer**: Wrote statistical compression algorithm for a Computer Go player that significantly reduced memory usage and published the results in AI journal. Built and deployed a parallelized Computer Go player across a cluster of five machines to compare voting schemes.
+    * **Second Summer**: Developed custom library in Mathematica to search through thousands of graphs to help prove a statistical classification condition. Published classification result in undergraduate journal.
+    * **Third Summer**: Coded a custom PDE solver in Python / Numpy for a nonlinear wave equation to find numerical evidence of blowup and presented my results at the Joint Mathematical Meetings.
+
+Work Experience
+---------------
+
+2013-2015
+:   **Contract Developer, Upsight Analytics (Portland, OR)**
+
+    * Wrote Android advertising framework that served millions of ads per month 
+    * Built an automated UI testing framework
+    * Mentored junior developers
+    * Patched high-pressure bugs in both iPhone and Android SDKs
+
+2011
+:   **iPhone Development Intern, Yelp Reservations (San Francisco, CA)**
+
+    * Wrote core UI components for main application now used by hundreds of restaurants. 
+
+Teaching
+------------
+2015-2017
+:    **Teaching Assistant, Calculus I & II**
+
+      * Conducted office hours to help students solve homework problems
+      * Graded homework and exams and kept records using Google Sheets
+      * Collaborated with other TAs and professor on course material and grading policies
+
+Publications
+----------------
+
+**Mathematics**
+
+   * "De Gregorio's Equation: a 1D model of Euler equations with Swirl". Hoa, J; Stewart, S; Sverak, V. *Archive for Rational Mechanics and Analysis* 2 (2019): 1269-1304. Print 
+
+   * "Orbigraphs - Graph Theoretic Analogue of Orbifolds". Daly, K; Gavin, C; Montes de Oca, G; Ochoa, D; Stanhope, E; Stewart, S. To appear in *Involve, a Journal of Mathematics.* 
+
+**Computer Science**
+
+   * "Two Online Learning Playout Policies in Monte Carlo Go: An Application of Win/Loss State." Basaldua, J; Stewart, S; Moreno-Vega, JM; Drake, PD. *IEEE Transactions on Computational Intelligence and AI in Games* 1 (2014): 46-54. Print.
+
+
+Presentations
+--------------
+
+**Public Audience**
+
+   * Presented "Lost in the Crowd: How Mathematicians Model Crowds" at Cafe Scientifique, Duluth, MN, Nov 29, 2018. 
+   * Presented "The Beautiful Problem of Turbulence" at Café Scientifique, Minneapolis, MN, Jan 17, 2017.
+
+**Academic Audience**
+
+   * Presented "Wave Equations with Quadratic Nonlinearities" at the Joint Mathematical Meetings, San Antonio, TX, Jan 10-13, 2015.  
+
+Posters
+-------
+
+   * "Cellular Automata Models of Dense Crowds", Pedestrian Dynamics: Modeling, Validation, and Calibration, Brown University, Providence, RI. Aug 21 - 25, 2017.
+
+Skills
+---------
+
+   * **Programming:** Unix, Git, Python, C, Mathematica, Matlab, R, Julia, Java, Vim
+
+   * **Math:** PDEs, convex optimization, numerical PDE
+
+   * **Languages:** French (professional working proficiency)
 
 Education
 ---------
 
-2017-2020
-:   **PhD in Mathematics at University of Minnesota** (Minneapolis, MN).
-    
-    Speciality: fluids, granular media, convex optimization.
+2020
+:   **PhD Candidate, Math, University of Minnesota** (Minneapolis, MN).
 
-    Advisor: [Vladimir Sverak](http://www-users.math.umn.edu/~sverak/).
-
-2015-2017
-:   **Masters in Mathematics** (Minneapolis, MN).
+2017
+:   **MS, Math, University of Minnesota** (Minneapolis, MN).
     
-    Masters Thesis: "De Gregorio's Equation: a 1D model of Euler equations with Swirl"
 
 2011-2015
-:   **BA in Mathematics at Lewis & Clark College** (Portland, OR).
+:   **BS, Math, Lewis & Clark College** (Portland, OR).
     
-    Honors Thesis Title: Wave Equations with Quadratic Nonlinearities
-
-    Advisor: [Paul T. Allen](https://paultallen.wordpress.com/)
-
-2013-2014
+2014
 :   **Budapest Semesters in Mathematics** (Budapest, Hungary).
 
+    * Took three graduate level classes
+    * Studied Hungarian and interacted with local culture via language exchange program
 
 Awards
 ------------------------
-2017-2021
-:   National Defense Science and Engineering Graduate Fellowship. 
+2017
+:   **NDSEG Fellowship**
+
+	Competitive (<10% awarded) Department of Defense fellowship with four years of full funding.
 
 2016
-:   National Science Foundation Graduate Student Fellowship Honorable Mention
+:   **NSF Fellowship Honorable Mention**
 
 2015
-:   John Ordway Departmental Fellowship 
+:   **Phi Beta Kappa**
 
-2014
-:   
-    Phi Beta Kappa, Pi Mu Epsilon (honors in mathematics) 
+Service
+---------
+**Professional**
+
+   * Associate Social Event Organizer for the Council of Graduate Students, 2016.
+   * Math Department Representative to the Council of Graduate Students, 2016.
+
+**Community**
+
+   * Volunteer, Alliance Francaise, Minneapolis, MN. 2018-Present
 
 ----
 
-> <sams@umn.edu> • +1 503-877-2851 • [https://github.com/samstewart](https://github.com/samstewart)\
->  Vincent Hall, University of Minnesota - Minneapolis, MN 55414, USA
