@@ -3,9 +3,9 @@
 SAM STEWART
 
 
-  ----------------------------------------------------------------------------------
-  sams@umn.edu • 503-877-2851 • github.com/samstewart • Minneapolis, MN • LinkedIn
-  ----------------------------------------------------------------------------------
+  -----------------------------------------------------------------------
+  sams@umn.edu • 503-877-2851 • github.com/samstewart • Minneapolis, MN
+  -----------------------------------------------------------------------
 
 
 Education
@@ -36,7 +36,7 @@ Work Experience
     -   Acted as language and cultural liaison between US team and local
         team in a rural town in Burkina Faso
     -   Wrote weekly reports for US team
-    -   Managed finances of local team and coordinated funds with US
+    -   Managed finances of local team and coordinated funding with US
         team
 
 2013-2015
@@ -47,15 +47,15 @@ Work Experience
         per month
     -   Built an automated UI testing framework
     -   Mentored junior developers
-    -   Patched high-pressure bugs in both iPhone and Android SDKs
+    -   Patched mission critical bugs in both iPhone and Android SDKs
 
 2011
 
     IPHONE DEVELOPMENT INTERN, SEATME (SAN FRANCISCO, CA)
 
-    -   Wrote core UI components for main application now used by
-        hundreds of restaurants
-    -   Startup was acquired by Yelp in ?? for ?? million.
+    -   Wrote core UI components for main app now used by hundreds of
+        restaurants
+    -   Yelp acquired SeatMe in 2013 for $12.7 million
 
 
 Research Experience
@@ -65,7 +65,7 @@ Research Experience
     GRADUATE RESEARCH ASSISTANT (MINNEAPOLIS, MN)
 
     -   PHD PROJECT: Designing fast algorithm for simulating hundreds of
-        agents in a crowd model inspired by fluid dynamics.
+        agents in a crowd model inspired by fluid dynamics
 
     -   MASTERS PROJECT: Implemented numerical method in Matlab to study
         solutions for a fluid model and published results in top journal

@@ -2,7 +2,7 @@ Sam Stewart
 =========================
 
 ------------------------------------------
-<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN • LinkedIn
+<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN
 ------------------------------------------
 
 Education
@@ -30,7 +30,7 @@ Work Experience
 
     * Acted as language and cultural liaison between US team and local team in a rural town in Burkina Faso
     * Wrote weekly reports for US team 
-    * Managed finances of local team and coordinated funds with US team
+    * Managed finances of local team and coordinated funding with US team
 
 2013-2015
 :   **Contract Developer, Upsight Analytics (Portland, OR)**
@@ -38,13 +38,13 @@ Work Experience
     * Wrote Android advertising framework that served millions of ads per month 
     * Built an automated UI testing framework
     * Mentored junior developers
-    * Patched high-pressure bugs in both iPhone and Android SDKs
+    * Patched mission critical bugs in both iPhone and Android SDKs
 
 2011
 :   **iPhone Development Intern, SeatMe (San Francisco, CA)**
 
-    * Wrote core UI components for main application now used by hundreds of restaurants 
-    * Startup was acquired by Yelp in ?? for ?? million.
+    * Wrote core UI components for main app now used by hundreds of restaurants 
+    * Yelp acquired SeatMe in 2013 for $12.7 million
 
 Research Experience
 --------------------
@@ -52,7 +52,7 @@ Research Experience
 2015-2020
 :     **Graduate Research Assistant (Minneapolis, MN)** 
 
-    * **PhD Project**: Designing fast algorithm for simulating hundreds of agents in a crowd model inspired by fluid dynamics. 
+    * **PhD Project**: Designing fast algorithm for simulating hundreds of agents in a crowd model inspired by fluid dynamics
 
     * **Masters Project**: Implemented numerical method in Matlab to study solutions for a fluid model and published results in top journal 
 
