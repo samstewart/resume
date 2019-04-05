@@ -1,6 +1,31 @@
 
 
-SAMUEL STEWART
+SAM STEWART
+
+
+  ----------------------------------------------------------------------------------
+  sams@umn.edu • 503-877-2851 • github.com/samstewart • Minneapolis, MN • LinkedIn
+  ----------------------------------------------------------------------------------
+
+
+Education
+
+2020
+    PHD CANDIDATE, MATH, UNIVERSITY OF MINNESOTA (Minneapolis, MN).
+
+2017
+    MS, MATH, UNIVERSITY OF MINNESOTA (Minneapolis, MN).
+
+2011-2015
+    BS, MATH, LEWIS & CLARK COLLEGE (Portland, OR).
+
+2014
+
+    BUDAPEST SEMESTERS IN MATHEMATICS (Budapest, Hungary).
+
+    -   Took three graduate level classes
+    -   Studied Hungarian and interacted with local culture via language
+        exchange program
 
 
 Research Experience
@@ -9,39 +34,48 @@ Research Experience
 
     GRADUATE RESEARCH ASSISTANT (MINNEAPOLIS, MN)
 
-    -   Implemented spectral method in Matlab to obtain numerical
-        evidence of attractor solutions for a fluid model.
-    -   Proved existence of attractor solutions using techniques from
+    -   PHD PROJECT: Designing fast algorithm for simulating a crowd
+        model inspired by fluid dynamics. Proving that algorithm is
+        well-posed.
+
+    -   MASTERS PROJECT: Implemented spectral method in Matlab to obtain
+        numerical evidence of attractor solutions for a fluid model.
+        Proved existence of attractor solutions using techniques from
         spectral theory and published the results in top journal.
-    -   Designed and wrote fast algorithm for simulating a crowd model.
-
-2017
-    TRACTORS FOR AFRICA (BURKINA FASO)
-
--   Acted as language and cultural liason between US team and local team
-    in a rural town in Burkina Faso.
--   Wrote weekly reports for US team
--   Managed finances of local team and coordinated funds with US team
 
 2012-2015
+
     SUMMER UNDERGRADUATE RESEARCH EXPERIENCES (PORTLAND, OR)
 
--   Coded a custom PDE solver in Python / Numpy for a nonlinear wave
-    equation to find numerical evidence of blowup and presented my
-    results at the Joint Mathematical Meetings.
--   Developed custom library in Mathematica to search through thousands
-    of examples to help prove a statistical classification condition and
-    published classification result in undergraduate journal.
--   Built and deployed a parallelized Computer Go player across a
-    cluster of five machines to compare voting schemes.
--   Wrote statistical compression algorithm for a Computer Go player
-    that significantly reduced memory usage and published the results in
-    AI journal.
+    -   SUMMER 2014: Coded a custom PDE solver in Python / Numpy for a
+        nonlinear wave equation to find numerical evidence of blowup and
+        presented my results at the Joint Mathematical Meetings.
+
+    -   SUMMER 2013: Developed custom library in Mathematica to search
+        through thousands of graphs to help prove a statistical
+        classification condition. Published classification result in
+        undergraduate journal.
+
+    -   SUMMER 2012: Wrote statistical compression algorithm for a
+        Computer Go player that significantly reduced memory usage and
+        published the results in AI journal. Built and deployed a
+        parallelized Computer Go player across a cluster of five
+        machines to compare voting schemes.
 
 
 Work Experience
 
-2013 - 2015
+2017
+
+    TRACTORS FOR AFRICA (BURKINA FASO)
+
+    -   Acted as language and cultural liaison between US team and local
+        team in a rural town in Burkina Faso.
+    -   Wrote weekly reports for US team
+    -   Managed finances of local team and coordinated funds with US
+        team
+
+2013-2015
 
     CONTRACT DEVELOPER, UPSIGHT ANALYTICS (PORTLAND, OR)
 
@@ -49,24 +83,41 @@ Work Experience
         per month
     -   Built an automated UI testing framework
     -   Mentored junior developers
-    -   Patched mission-critical bugs in both iPhone and Android SDKs
+    -   Patched high-pressure bugs in both iPhone and Android SDKs
 
 2011
 
     IPHONE DEVELOPMENT INTERN, YELP RESERVATIONS (SAN FRANCISCO, CA)
 
     -   Wrote core UI components for main application now used by
-        hundreds of restaurants
+        hundreds of restaurants.
+
+
+Teaching
+
+2015-2017
+
+    TEACHING ASSISTANT, CALCULUS I & II
+
+    -   Taught thirty students each semester
+    -   Organized groupwork among students
+    -   Conducted office hours to help students solve homework problems
 
 
 Publications
 
+MATHEMATICS
+
 -   “De Gregorio’s Equation: a 1D model of Euler equations with Swirl”.
     Hoa, J; Stewart, S; Sverak, V. _Archive for Rational Mechanics and
     Analysis_ 2 (2019): 1269-1304. Print
+
 -   “Orbigraphs - Graph Theoretic Analogue of Orbifolds”. Daly, K;
     Gavin, C; Montes de Oca, G; Ochoa, D; Stanhope, E; Stewart, S. To
     appear in _Involve, a Journal of Mathematics._
+
+COMPUTER SCIENCE
+
 -   “Two Online Learning Playout Policies in Monte Carlo Go: An
     Application of Win/Loss State.” Basaldua, J; Stewart, S;
     Moreno-Vega, JM; Drake, PD. _IEEE Transactions on Computational
@@ -75,12 +126,17 @@ Publications
 
 Presentations
 
--   “Lost in the Crowd: How Mathematicians Model Crowds” at Cafe
-    Scientifique, Duluth, MN, Nov 29, 2018.
+PUBLIC AUDIENCE
+
+-   Presented “Lost in the Crowd: How Mathematicians Model Crowds” at
+    Cafe Scientifique, Duluth, MN, Nov 29, 2018.
 -   Presented “The Beautiful Problem of Turbulence” at Café
     Scientifique, Minneapolis, MN, Jan 17, 2017.
--   “Wave Equations with Quadratic Nonlinearities” at the Joint
-    Mathematical Meetings, San Antonio, TX, Jan 10-13, 2015.
+
+ACADEMIC AUDIENCE
+
+-   Presented “Wave Equations with Quadratic Nonlinearities” at the
+    Joint Mathematical Meetings, San Antonio, TX, Jan 10-13, 2015.
 
 
 Posters
@@ -92,41 +148,39 @@ Posters
 
 Skills
 
-PROGRAMMING: Unix, Git, Python, C, Mathematica, Matlab, R, Julia, Java
-MATH: PDEs, convex optimization, numerical PDE LANGUAGES: French
-(professional working proficiency)
+-   PROGRAMMING: Linux, Git, Python, C/C++, Mathematica, Matlab, R,
+    Julia, Java, Vim, LaTeX
 
-
-Education
-
-2020
-    PHD CANDIDATE, MATHEMATICS, UNIVERSITY OF MINNESOTA (Minneapolis,
-    MN).
-
-2017
-    MASTER OF SCIENCE, MATHEMATICS, UNIVERSITY OF MINNESOTA
-    (Minneapolis, MN).
-
-2011-2015
-    BACHELOR OF MATHEMATICS, LEWIS & CLARK COLLEGE (Portland, OR).
-
-2014
-    BUDAPEST SEMESTERS IN MATHEMATICS (Budapest, Hungary).
-
--   Took three graduate level classes
--   Studied Hungarian and interacted with local culture via language
-    exchange
+-   MATH: PDEs, convex optimization, numerical PDE
+-   SOFTWARE: Excel, Word, PowerPoint, Blender3D
+-   LANGUAGES: French (professional working proficiency)
 
 
 Awards
 
 2017
-    National Defense Science and Engineering Graduate Fellowship
-    Competitive (<10% awarded) fellowship with four years of full
-    funding. 2014
-    Phi Beta Kappa
+
+    NDSEG FELLOWSHIP
+
+    Competitive (<10% awarded) Department of Defense fellowship with
+    four years of full funding.
+
+2016
+    NSF FELLOWSHIP HONORABLE MENTION
+
+2015
+    PHI BETA KAPPA
+
+
+Service
+
+PROFESSIONAL
+
+-   Associate Social Event Organizer for the Council of Graduate
+    Students, 2016.
+
+COMMUNITY
+
+-   Volunteer, Alliance Francaise, Minneapolis, MN. 2018-Present
 
 ------------------------------------------------------------------------
-
-  sams@umn.edu • 503-877-2851 • https://github.com/samstewart
-  Minneapolis, MN

@@ -2,8 +2,28 @@ Sam Stewart
 =========================
 
 ------------------------------------------
-<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN  
+<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN • LinkedIn
 ------------------------------------------
+
+Education
+---------
+
+2020
+:   **PhD Candidate, Math, University of Minnesota** (Minneapolis, MN)
+
+2017
+:   **MS, Math, University of Minnesota** (Minneapolis, MN)
+    
+
+2011-2015
+:   **BS, Math, Lewis & Clark College** (Portland, OR)
+    
+2014
+:   **Budapest Semesters in Mathematics** (Budapest, Hungary)
+
+    * Took three graduate level classes
+    * Studied Hungarian and interacted with local culture via language exchange program
+
 
 Research Experience
 --------------------
@@ -11,25 +31,27 @@ Research Experience
 2015-2020
 :     **Graduate Research Assistant (Minneapolis, MN)** 
 
-    * **Masters Project**: Implemented spectral method in Matlab to obtain numerical evidence of attractor solutions for a fluid model. Proved existence of attractor solutions using techniques from spectral theory and published the results in top journal.
-    * **PhD Project**: Designing fast algorithm for simulating a crowd model inspired by fluid dynamics. Proving that algorithm is wellposed.
+    * **PhD Project**: Designing fast algorithm for simulating a crowd model inspired by fluid dynamics. Proving that algorithm is well-posed
 
-2017
-:    **Tractors for Africa (Burkina Faso)**
-
-    * Acted as language and cultural liaison between US team and local team in a rural town in Burkina Faso.
-    * Wrote weekly reports for US team 
-    * Managed finances of local team and coordinated funds with US team
+    * **Masters Project**: Implemented spectral method in Matlab to obtain numerical evidence of attractor solutions for a fluid model. Proved existence of attractor solutions using techniques from spectral theory and published the results in top journal
 
 2012-2015 
 :   **Summer Undergraduate Research Experiences (Portland, OR)**
     
-    * **First Summer**: Wrote statistical compression algorithm for a Computer Go player that significantly reduced memory usage and published the results in AI journal. Built and deployed a parallelized Computer Go player across a cluster of five machines to compare voting schemes.
-    * **Second Summer**: Developed custom library in Mathematica to search through thousands of graphs to help prove a statistical classification condition. Published classification result in undergraduate journal.
-    * **Third Summer**: Coded a custom PDE solver in Python / Numpy for a nonlinear wave equation to find numerical evidence of blowup and presented my results at the Joint Mathematical Meetings.
+    * **Summer 2014**: Coded a custom PDE solver in Python / NumPy for a nonlinear wave equation to find numerical evidence of blowup and presented my results at the Joint Mathematical Meetings
+
+    * **Summer 2013**: Developed custom library in Mathematica to search through thousands of graphs to help prove a statistical classification condition. Published classification result in undergraduate journal
+
+    * **Summer 2012**: Wrote statistical compression algorithm for a Computer Go player that significantly reduced memory usage and published the results in AI journal. Built and deployed a parallelized Computer Go player across a cluster of five machines to compare voting schemes
 
 Work Experience
 ---------------
+2017
+:    **Tractors for Africa (Burkina Faso)**
+
+    * Acted as language and cultural liaison between US team and local team in a rural town in Burkina Faso
+    * Wrote weekly reports for US team 
+    * Managed finances of local team and coordinated funds with US team
 
 2013-2015
 :   **Contract Developer, Upsight Analytics (Portland, OR)**
@@ -42,16 +64,21 @@ Work Experience
 2011
 :   **iPhone Development Intern, Yelp Reservations (San Francisco, CA)**
 
-    * Wrote core UI components for main application now used by hundreds of restaurants. 
+    * Wrote core UI components for main application now used by hundreds of restaurants 
+
+<br>
+<br>
+<br>
+<br>
 
 Teaching
 ------------
 2015-2017
 :    **Teaching Assistant, Calculus I & II**
 
+      * Taught thirty students each semester
+      * Organized groupwork among students
       * Conducted office hours to help students solve homework problems
-      * Graded homework and exams and kept records using Google Sheets
-      * Collaborated with other TAs and professor on course material and grading policies
 
 Publications
 ----------------
@@ -87,37 +114,18 @@ Posters
 Skills
 ---------
 
-   * **Programming:** Unix, Git, Python, C, Mathematica, Matlab, R, Julia, Java, Vim
+   * **Programming:** Linux, Git, Python, C/C++, Mathematica, Matlab, R, Julia, Java, Vim, LaTeX
 
    * **Math:** PDEs, convex optimization, numerical PDE
-
+   * **Software:** Excel, Word, PowerPoint, Blender3D 
    * **Languages:** French (professional working proficiency)
-
-Education
----------
-
-2020
-:   **PhD Candidate, Math, University of Minnesota** (Minneapolis, MN).
-
-2017
-:   **MS, Math, University of Minnesota** (Minneapolis, MN).
-    
-
-2011-2015
-:   **BS, Math, Lewis & Clark College** (Portland, OR).
-    
-2014
-:   **Budapest Semesters in Mathematics** (Budapest, Hungary).
-
-    * Took three graduate level classes
-    * Studied Hungarian and interacted with local culture via language exchange program
 
 Awards
 ------------------------
 2017
 :   **NDSEG Fellowship**
 
-	Competitive (<10% awarded) Department of Defense fellowship with four years of full funding.
+	Competitive (<10% awarded) Department of Defense fellowship with four years of full funding
 
 2016
 :   **NSF Fellowship Honorable Mention**
@@ -130,7 +138,6 @@ Service
 **Professional**
 
    * Associate Social Event Organizer for the Council of Graduate Students, 2016.
-   * Math Department Representative to the Council of Graduate Students, 2016.
 
 **Community**
 
