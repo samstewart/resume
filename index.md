@@ -2,7 +2,7 @@ Sam Stewart
 =========================
 
 ------------------------------------------
-<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN • LinkedIn
+<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Minneapolis, MN 
 ------------------------------------------
 
 Education
@@ -125,7 +125,7 @@ Awards
 2017
 :   **NDSEG Fellowship**
 
-	Competitive (<10% awarded) Department of Defense fellowship with four years of full funding
+	Extremely competitive Department of Defense fellowship with four years of full funding
 
 2016
 :   **NSF Fellowship Honorable Mention**
