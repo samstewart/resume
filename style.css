@@ -16,6 +16,9 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
+.contactInfo{
+	text-align: center;
+}
 /* Title of the resume */
 h1 {
     font-size: 55px;
