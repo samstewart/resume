@@ -15,12 +15,13 @@ Work Experience
 ---------------
 February 2020 - Present
 :    **Data Scientist at World Wide Technologies (New York)**
-	* Working on a variety of machine learning projects for various WWT clients
+	
+    * Working on a variety of machine learning projects for WWT clients
 
 Summer 2019
 :    **Intern at Wolfram Research (Illinois)**
 
-    * Wrote a bridge between core framework in Mathematica to an open source framework in Python
+    * Wrote a bridge between core Mathematica framework to open source Python framework
 
 Summer 2017
 :    **Tractors for Africa (Burkina Faso)**
@@ -58,5 +59,5 @@ Papers
    * Daly, K., Gavin, C., Montes de Oca, G., Ochoa, D., Stanhope, E., & Stewart, S. *Orbigraphs: a graph-theoretic analog to Riemannian orbifolds.* Involve, a Journal of Mathematics 12.5 (2019): 721-736.
 
 ------------------------------------------
-<samuel.stewart@wwt.com> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Brooklyn, NY 
+<sams@umn.edu> • 503-877-2851 • [github.com/samstewart](https://github.com/samstewart) • Brooklyn, NY 
 ------------------------------------------
